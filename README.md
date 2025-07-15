@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **LLMs Fine Tuning**
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/kumarishivangi/home?authuser=1](https://sites.google.com/view/kumarishivangi/home?authuser=1)
+- 👨‍💻 All of my projects are available at [portfolio](https://sites.google.com/view/kumarishivangi/home?authuser=1)
 
 - 📫 How to reach me **sivangi116@gmail.com**
 
